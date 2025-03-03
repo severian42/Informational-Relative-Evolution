@@ -18,7 +18,17 @@ The **Information Relative Evolution (IRE) principle** proposes that **informati
 
 The core equation governing the IRE field is:
 
-![IRE_Field_Full_Equation](https://github.com/user-attachments/assets/2d9299ed-8e78-4244-8fac-8776f81c314a)
+### Information Coherence Field Equation
+```bash
+∂²ψ/∂t² + γ ∂ψ/∂t - ∇ · [ D₀ (1 + αψ²)(1 + βC(t)) ∇ψ ] + λ sgn(ψ) [ log(|ψ| + ε) + 1 ] - λₙₗ ∫ d𝑥' K(𝑥 - 𝑥') ψ(𝑥', t) = 0
+```
+#### Where:
+- **ψ(x, t)** represents the **information coherence field**.  
+- **D₀, α, β** control **local and global diffusion properties**.  
+- **C(t)** is the **global coherence function**.  
+- **λ, λₙₗ** introduce **entropy-driven self-organization and nonlocal interactions**.  
+- **γ** accounts for **dissipation**, stabilizing the system over time.  
+
 
 
 ### Real-World Applications of IRE:
