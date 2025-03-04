@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Information Relative Evolution (IRE)** repository! This repository serves as the central hub for research, simulations, and theoretical developments based on the **IRE principle**, a framework that treats information coherence as a dynamic physical field. Here, you'll find:
+Welcome to the **Information Relative Evolution (IRE)** repository. This repository serves as the central hub for research, simulations, and theoretical developments based on the **IRE principle**, a framework that treats information coherence as a dynamic physical field. Here, you'll find:
 
 - **Simulations** of the IRE-predicted dynamics, including applications to the **three-body problem**.
 
@@ -29,7 +29,7 @@ The core equation governing the IRE field is:
 - **λ, λₙₗ** introduce **entropy-driven self-organization and nonlocal interactions**.  
 - **γ** accounts for **dissipation**, stabilizing the system over time.  
 
-
+Here is a quick 3-min podcast that explains the entire framework in a high-level manner. Made by @nxgson: [https://huggingface.co/ngxson/hf-blog-podcast/resolve/main/Severian/informational-relative-evolution.mp3](https://huggingface.co/blog/Severian/informational-relative-evolution#67c327682430e43caa52d869)
 
 ### Real-World Applications of IRE:
 
