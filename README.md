@@ -45,6 +45,11 @@ IRE provides a **unified theoretical framework** that links fundamental physics,
 
 - **Galaxy Formation & Cosmology**: The resonance and nonlocal effects embedded in the equation provide insights into large-scale structure formation in the universe, explaining why galaxies tend to organize in filaments and clusters.
 
+
+### Here are some practical examples and implementations of this IRE equation
+
+- [SIREN: The Signal-Intelligent Resonance Encoding Network](https://github.com/severian42/SIREN)
+
 ### Why is This Important?
 
 IRE provides a **unified theoretical framework** that links fundamental physics, thermodynamics, and information theory. By treating information coherence as an evolving field, IRE helps explain the spontaneous emergence of structure in everything from quantum systems to galaxies.
